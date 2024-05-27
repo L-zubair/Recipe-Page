@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(244, 220, 224);
+    display: flex;
+    justify-content: center;
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.main{
+    background-color: whitesmoke;
+    width:400px ;
+    height: 1200px;
+    margin: 80px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.img{
+    /* background-image:url("image-omelette.jpeg"); */
+    width: 100%;
+    height: 200px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+p{
+    width: 95%;
+    opacity: 0.6;
+    font-size: 9px;
+}
+.time{
+    background-color: rgb(246, 236, 237);
+    padding-top: 2px;
+    width: 95%;
+    height: 85px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+h4{
+    color:purple;
+    padding-bottom:5px;
+    font-size: 10px;
+}
+ul{
+    margin-top: -15px;
+    padding-left: 15px;
+    font-size: 6px;
+}
+h6{
+    font-size: 8px;
+}
+h3{
+    color: #b33c00;
+}
+
+.ing{
+    font-size: 11px;
+    opacity: 0.9;
+    /* color: black; */
+}
+.ingi{
+    color: black;
+    font-size: 10px;
+    opacity: 1;
+}
+ol{
+    padding-left: 14px;
+}
+.tb{
+    padding-right: 200px;
+}
+.tb1{
+    padding-right: 220px;
+}
+.tb2{
+    padding-right: 210px;
+}
